@@ -897,11 +897,16 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 /*hm-foot-icon */
 
 .hm-footer-copyright p{
-    color: #888ea5;
+    color: #d2cdcd;
+    font-size:  12px;
     text-transform: capitalize;
-    padding: 38px 0;
+    padding: 14px 0;
 }
-.hm-footer-copyright p a {color: #888ea5;}
+.hm-footer-copyright p a {
+    color: #d2cdcd;
+    font-size:  12px;
+    text-transform: capitalize;
+}
 /*===============================
     Scroll Top
 ===============================*/
